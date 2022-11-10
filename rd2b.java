@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.function.BinaryOperator;
+
 
 public class rd2b {
     public static void main(String[] args) {
