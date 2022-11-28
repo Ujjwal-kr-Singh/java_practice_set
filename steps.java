@@ -1,3 +1,5 @@
+//this progarm is to calculate the no. ways to climb stairs taking atmost 2-steps at a time. 
+
 import java.util.Scanner;
 
 public class steps {
